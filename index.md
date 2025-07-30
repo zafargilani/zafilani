@@ -11,7 +11,7 @@ Cambridge PhD & Alumnus, Author, AI expert, Speaker
 
 ### ABOUT ME
 
-I currently hold Data and AI Consultant position at Johnson Matthey.
+I currently hold Principal Data Engineer position at Johnson Matthey.
 
 Prior to this I was the Senior Principal Consultant for AI and Deep Learning at Enzen Global Solutions Ltd. I also held the Adjunct Assistant Professor position at the University of Hong Kong.
 
