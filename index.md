@@ -1,4 +1,4 @@
-## [Dr. Zafar Gilani](https://uk.linkedin.com/in/zafargilani)
+## [Zafar Gilani, Ph.D.](https://uk.linkedin.com/in/zafargilani)
 
 ``` markdown
 Cambridge PhD & Alumnus, AI + Data + Cloud Expert, Author & Speaker
