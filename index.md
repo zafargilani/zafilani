@@ -1,7 +1,7 @@
 ## [Dr. Zafar Gilani](https://uk.linkedin.com/in/zafargilani)
 
 ``` markdown
-Cambridge PhD & Alumnus, Author, AI expert, Speaker
+Cambridge PhD & Alumnus, AI + Data + Cloud Expert, Author & Speaker
 ```
 
 - [LinkedIn](https://www.linkedin.com/in/zafargilani/) • [Curriculum Vitae (Résumé)](https://docs.google.com/document/d/1laK3VQ1Afc202THJnRBJ1C3kCTWNP_hh2MvETzTBPhg/edit?usp=sharing)
@@ -11,9 +11,9 @@ Cambridge PhD & Alumnus, Author, AI expert, Speaker
 
 ### ABOUT ME
 
-I currently hold Principal Data Engineer position at Johnson Matthey.
+I currently hold the Principal AI Engineer position at The FTC Group.
 
-Prior to this I was the Senior Principal Consultant for AI and Deep Learning at Enzen Global Solutions Ltd. I also held the Adjunct Assistant Professor position at the University of Hong Kong.
+Prior to this I was the Principal Data Engineer at Johnson Matthey, and prior to that I was the Senior Principal Consultant for AI and Deep Learning at Enzen Global Solutions Ltd. I also held the Adjunct Assistant Professor position at the University of Hong Kong.
 
 Durig my Ph.D., I was a part of the [NetOS research group](http://www.cl.cam.ac.uk/research/srg/netos/) at the [Computer Laboratory](http://www.cl.cam.ac.uk/) (now called the Department of Computer Science and Technology), University of Cambridge. I was supervised by [Prof. Jon Crowcroft](http://www.cl.cam.ac.uk/~jac22/). During my [Ph.D. research](https://doi.org/10.17863/CAM.26395) I worked on characterising, detecting and measuring the social cost of automated programs (bots) in online social networks (OSNs). For this purpose, I developed [Stweeler](https://github.com/zafargilani/stcs). The Stweeler project was aimed at studying usage, behaviour and impact of automated agents (bots, automated entities, automated agents) in online social networks (OSNs). To measure the social cost of bots I studied their influence over content popularity, the affects of bot traffic generated and propagated over networked systems, and the types of bots that are part of our electronic social settings. For these purposes the Stweeler project collects and maintains massive amounts of Twitter data from the freely available Streaming API. Since Stweeler collects all of the tweets from the Streaming API, we can use this dataset for a number of other avenues of research, such as sentiment analysis, and sociopolitical analysis, among others.
 
