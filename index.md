@@ -1,7 +1,7 @@
 ## [Zafar Gilani, Ph.D.](https://uk.linkedin.com/in/zafargilani)
 
 ``` markdown
-AI, Data, Cloud | Cambridge PhD & Alumnus | Author & Speaker
+AI, Data, Cloud | Cambridge PhD | Author & Speaker
 ```
 
 - [LinkedIn](https://www.linkedin.com/in/zafargilani/) • [Curriculum Vitae (Résumé)](https://docs.google.com/document/d/1laK3VQ1Afc202THJnRBJ1C3kCTWNP_hh2MvETzTBPhg/edit?usp=sharing)
