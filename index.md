@@ -1,7 +1,7 @@
 ## [Zafar Gilani, Ph.D.](https://www.linkedin.com/in/zafargilani)
 
 ``` markdown
-AI, AI Security, Hybrid Cloud, Risk Management | Cambridge Ph.D.
+AI, AI Security, AI Risk Management, Hybrid Cloud | Cambridge Ph.D.
 ```
 
 - [LinkedIn](https://www.linkedin.com/in/zafargilani/) • [Google Scholar](https://scholar.google.co.uk/citations?user=x2DVQjEAAAAJ) • [Research Gate](https://www.researchgate.net/profile/Zafar_Gilani)
@@ -9,7 +9,7 @@ AI, AI Security, Hybrid Cloud, Risk Management | Cambridge Ph.D.
 
 ### About Me
 
-I am a professional technology leader in AI, AI Security, Hybrid Cloud and Risk Management.
+I am a professional technology leader in AI, AI Security, AI Risk Management and Hybrid Cloud.
 
 I have authored a Cloud Computing book for John Wiley & Sons, and various peer-reviewed articles in top-tier conferences and journals. I am a public speaker on technology and augmented intelligence. My research on characterising and detecting social bots has been covered by the Scientific American. I was one of the pioneers of spatial-temporal analysis to pre-cache HTTP content on cellular devices, which won the best paper award at CoNEXT 2013.
 
