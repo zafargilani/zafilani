@@ -1,7 +1,9 @@
 ## [Zafar Gilani, Ph.D.](https://www.linkedin.com/in/zafargilani)
 
-``` markdown
-AI Growth Strategy & Risk Management Leader | Ex-JM, Telefonica, SLAC | Cambridge PhD, A/AISP, ITIL, AIF-C01
+```
+AI Growth Strategy & Risk Management Leader
+Ex-JM, Telefonica, SLAC
+Cambridge PhD, A/AISP, ITIL, AIF-C01
 ```
 
 - [LinkedIn](https://www.linkedin.com/in/zafargilani/) • [Google Scholar](https://scholar.google.co.uk/citations?user=x2DVQjEAAAAJ) • [Research Gate](https://www.researchgate.net/profile/Zafar_Gilani)
