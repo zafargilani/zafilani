@@ -1,8 +1,7 @@
 ## [Zafar Gilani, Ph.D.](https://www.linkedin.com/in/zafargilani)
 
 ``` markdown
-AI, AI Security, AI Risk Management, Hybrid Cloud
-A/AISP | Cambridge Ph.D.
+AI Growth Strategy & Risk Management Leader | Ex-JM, Telefonica, SLAC | Cambridge PhD, A/AISP, ITIL, AIF-C01
 ```
 
 - [LinkedIn](https://www.linkedin.com/in/zafargilani/) • [Google Scholar](https://scholar.google.co.uk/citations?user=x2DVQjEAAAAJ) • [Research Gate](https://www.researchgate.net/profile/Zafar_Gilani)
@@ -10,7 +9,7 @@ A/AISP | Cambridge Ph.D.
 
 ### About Me
 
-An innovative and strategic technology leader transforming businesses. An Artificial Intelligence and Data expert who over the years has contributed across industries such as telecom, energy, marketing research, sustainable technologies, healthcare and consulting. Led various successful cutting-edge deep learning projects to commercialisation that generated new revenue streams and business expansion. An award winning author of various peer-reviewed papers and articles in top-tier conferences and journals. Pioneered mobile Web content precaching and characteristics-based data banding. Covered by the Scientific American.
+Strategic Technology Leader & Subject Matter Expert with a PhD and extensive experience guiding C-suite stakeholders through digital and AI transformation. Combining deep technical authority in AI and Data to drive cutting-edge deep learning projects to commercialization generating millions in combined revenue and saving millions in costs for clients. Expert in constructing ROI-based business cases, navigating AI risk/security landscapes, and translating complex technical capabilities into clear business value for regulated industries such as telecom, marketing, energy, sustainable technologies and chemicals.
 
 ### Contact Me
 
