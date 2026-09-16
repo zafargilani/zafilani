@@ -1,7 +1,7 @@
 ## [Zafar Gilani, Ph.D.](https://www.linkedin.com/in/zafargilani)
 
 ```
-AI Growth Strategy & Risk Management Leader
+Safety & Risk Management Strategy Leader
 Ex-JM, Telefonica, SLAC
 Cambridge PhD, A/AISP, ITIL, AIF-C01
 ```
@@ -11,7 +11,7 @@ Cambridge PhD, A/AISP, ITIL, AIF-C01
 
 ### About Me
 
-Strategic Technology Leader & Subject Matter Expert with a PhD and extensive experience guiding C-suite stakeholders through digital and AI transformation. Combining deep technical authority in AI and Data to drive cutting-edge deep learning projects to commercialization generating millions in combined revenue and saving millions in costs for clients. Expert in constructing ROI-based business cases, navigating AI risk/security landscapes, and translating complex technical capabilities into clear business value for regulated industries such as telecom, marketing, energy, sustainable technologies and chemicals.
+Strategic Technology Leader & Subject Matter Expert with a PhD and extensive experience guiding C-suite stakeholders through digital and AI transformation. Combining deep technical authority in AI/Data and Industry Knowledge to drive cutting-edge deep learning projects to commercial success. Generated millions in combined revenue and saved millions in costs for businesses and clients. Expert in constructing ROI-based business cases, navigating AI risk/security landscapes, and translating complex technical capabilities into clear business value for regulated industries such as telecom, marketing, energy, sustainable technologies and chemicals.
 
 ### Contact Me
 
